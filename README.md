@@ -1,16 +1,10 @@
-# abilities
+# Speech Assist
+Speech Assist transcribes speech to text, text to speech & video to sign language. We provide resources & promote community. 
 
-A new Flutter project.
+## What it does?
+Our app **Speech Assist** helps people by transcribing speech into text on their screen in real-time.   
+With masks being mandatory in many countries, its difficult for people with hearing impairments to interpret others. Our app provides real-time speech transcription in speech to text, text to speech, and video to sign language format. We also provide a resource, community and help page. 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
