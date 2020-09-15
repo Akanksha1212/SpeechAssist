@@ -5,6 +5,4 @@ Speech Assist transcribes speech to text, text to speech & video to sign languag
 Our app **Speech Assist** helps people by transcribing speech into text on their screen in real-time.   
 With masks being mandatory in many countries, its difficult for people with hearing impairments to interpret others. Our app provides real-time speech transcription in speech to text, text to speech, and video to sign language format. We also provide a resource, community and help page. 
 
-
-
-
+<img src="1.jpg" alt="drawing" width="300"/> <img src="2.jpg" alt="drawing" width="300"/> <img src="3.jpg" alt="drawing" width="300"/> <img src="4.jpg" alt="drawing" width="300"/> <img src="5.jpg" alt="drawing" width="300"/>
